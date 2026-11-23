@@ -1,37 +1,36 @@
-# multiple-clustering-dashboard
-Multiple feature clustering project with an interactive Dash dashboard
-
 # Multiple Features Clustering
 
 ## Project Overview
 
 This project explores clustering using multiple features from the 2019 Survey of Consumer Finances (SCF) dataset.
 
-The project includes:
+The project covers:
 - Data preparation and feature selection
 - Feature scaling using StandardScaler
 - KMeans clustering
-- Evaluation using inertia and silhouette score
+- Clustering evaluation using inertia and silhouette score
 - PCA visualization of clusters
-- An interactive dashboard built with Dash and Plotly
+- Interactive dashboard development using Dash and Plotly
 
 ## Interactive Dashboard
 
-[Open the interactive clustering dashboard](https://9050-m-s-use1b13-i226i2cqj1hn-b.us-east1.prod.r.colab.dev)
+The project includes an interactive dashboard built with Dash and Plotly.
 
-**Note:** The dashboard link uses a Google Colab runtime. It may only work while the Colab session and dashboard server are running.
+**Dashboard status:** The dashboard is not currently available through a working public link. I am working on making it accessible online.
 
 ## Technologies Used
 
 - Python
 - Pandas
 - Scikit-learn
+- Matplotlib
 - Plotly
 - Dash
-- Matplotlib
 
 ## Acknowledgement
 
 This project was completed as part of my learning through the WorldQuant University Applied Data Science Lab.
 
-I acknowledge WorldQuant University for the learning materials and project guidance.
+I acknowledge WorldQuant University for providing the educational materials, learning resources, and project guidance that supported this work.
+
+This is an independent learning project and does not imply endorsement by WorldQuant University.
